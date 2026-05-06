@@ -1,4 +1,3 @@
-// Product Display Logic
 const productsContainer = document.getElementById("productsContainer");
 
 function displayProducts() {
@@ -47,5 +46,4 @@ function handleBuyClick(productName) {
     alert("You clicked Buy Now for: " + productName);
 }
 
-// Run the display function when page loads
 displayProducts();
