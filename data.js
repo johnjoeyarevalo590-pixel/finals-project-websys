@@ -1,24 +1,23 @@
-// Product Data
 const products = [
     {
         id: 1,
         emoji: "💐",
         name: "Perfume",
-        price: 1500,
+        price: 1550,
         currency: "₱"
     },
     {
         id: 2,
         emoji: "👕",
         name: "Printed Shirt",
-        price: 800,
+        price: 890,
         currency: "₱"
     },
     {
         id: 3,
         emoji: "👖",
         name: "Baggy Pants",
-        price: 1200,
+        price: 1250,
         currency: "₱"
     },
     {
